@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidDesignerProfile">
+    <option name="fullProfile">
+      <profile>
+        <option name="device" value="2.7in QVGA" />
+        <option name="deviceConfiguration" value="Portrait" />
+        <option name="targetHashString" value="android-15" />
+        <option name="theme" value="Theme" />
+      </profile>
+    </option>
+    <option name="selection" value="[Full]" />
+  </component>
+  <component name="AndroidLayoutPreviewToolWindow">
+    <option name="state">
+      <GlobalState>
+        <option name="device" value="2.7in QVGA" />
+        <option name="dockMode" value="" />
+        <option name="nightMode" value="notnight" />
+        <option name="targetHashString" value="android-15" />
+        <option name="theme" value="Theme" />
+        <option name="visible" value="false" />
+      </GlobalState>
+    </option>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="INFO" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" name="Default" comment="" />
+    <ignored path="androidhw6.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="$PROJECT_DIR$/res/values/strings.xml" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1382622260206" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1382622456045" ignored="false" />
+    <file path="$PROJECT_DIR$/gen/ru/ifmo/ctddev/skripnikov/hw5/BuildConfig.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1382622345242" ignored="false" />
+    <file path="/FeedAdapter.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383244616421" ignored="false" />
+    <file path="/fragment.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1389550408650" ignored="false" />
+    <file path="/AndroidManifest.xml" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1386262197967" ignored="false" />
+    <file path="/FeedReader.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383246987308" ignored="false" />
+    <file path="/WebActivity.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1382638428173" ignored="false" />
+    <file path="/MainActivity.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1386262668461" ignored="false" />
+    <file path="/FeedsListActivity.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1382641100590" ignored="false" />
+    <file path="/ItemsListActivity.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383868436507" ignored="false" />
+    <file path="/FeedReaderService.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383877385557" ignored="false" />
+    <file path="/SQLiteHelper.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1384681196381" ignored="false" />
+    <file path="/DBWStorage.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383868232495" ignored="false" />
+    <file path="/DBRStorage.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383865585546" ignored="false" />
+    <file path="/Channel.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383866529026" ignored="false" />
+    <file path="/ChannelsListAdapter.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383868834302" ignored="false" />
+    <file path="/Dummy.txt" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383907680182" ignored="false" />
+    <file path="/channel_item.xml" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383868715538" ignored="false" />
+    <file path="/ChannelsListActivity.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383876938825" ignored="false" />
+    <file path="/AddChannelActivity.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383249477663" ignored="false" />
+    <file path="/add_channel.xml" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383874231547" ignored="false" />
+    <file path="/channels_list_activity.xml" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383854325221" ignored="false" />
+    <file path="$PROJECT_DIR$/gen/ru/ifmo/ctddev/skripnikov/androidhw6/Manifest.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383877266065" ignored="false" />
+    <file path="/DBStorage.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1385663593594" ignored="false" />
+    <file path="/ChangeChannelDialog.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383873736584" ignored="false" />
+    <file path="/dialog.xml" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383873900709" ignored="false" />
+    <file path="/Listener.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383873434755" ignored="false" />
+    <file path="$PROJECT_DIR$/gen/ru/ifmo/ctddev/skripnikov/androidhw6/R.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383877266065" ignored="false" />
+    <file path="$PROJECT_DIR$/../colloquium2/AndroidManifest.xml" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383905236507" ignored="false" />
+    <file path="$PROJECT_DIR$/../colloquium2/src/ru/ifmo/ctddev/skripnikov/colloquium2/MainActivity.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383900096290" ignored="false" />
+    <file path="$PROJECT_DIR$/../colloquium2/res/layout/main.xml" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383900096290" ignored="false" />
+    <file path="$PROJECT_DIR$/../colloquium2/res/values/strings.xml" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383907539021" ignored="false" />
+    <file path="$PROJECT_DIR$/../colloquium2/build.xml" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383900096290" ignored="false" />
+    <file path="$PROJECT_DIR$/../colloquium2/src/ru/ifmo/ctddev/skripnikov/colloquium2/SQLiteHelper.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383909740981" ignored="false" />
+    <file path="$PROJECT_DIR$/../colloquium2/src/ru/ifmo/ctddev/skripnikov/colloquium2/DBStorage.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383903017460" ignored="false" />
+    <file path="$PROJECT_DIR$/../colloquium2/src/ru/ifmo/ctddev/skripnikov/colloquium2/Subject.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383904940461" ignored="false" />
+    <file path="/Subject.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383904939250" ignored="false" />
+    <file path="$PROJECT_DIR$/../colloquium2/src/ru/ifmo/ctddev/skripnikov/colloquium2/Rating.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383902913960" ignored="false" />
+    <file path="/Rating.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383902913219" ignored="false" />
+    <file path="$PROJECT_DIR$/../colloquium2/src/ru/ifmo/ctddev/skripnikov/colloquium2/ChannelsListActivity.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383903132159" ignored="false" />
+    <file path="$PROJECT_DIR$/../colloquium2/src/ru/ifmo/ctddev/skripnikov/colloquium2/ChannelsListAdapter.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383903132159" ignored="false" />
+    <file path="$PROJECT_DIR$/../colloquium2/src/ru/ifmo/ctddev/skripnikov/colloquium2/SubjectsListActivity.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383909068379" ignored="false" />
+    <file path="$PROJECT_DIR$/../colloquium2/src/ru/ifmo/ctddev/skripnikov/colloquium2/SubjectsListAdapter.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383910257330" ignored="false" />
+    <file path="/SubjectsListActivity.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383908954537" ignored="false" />
+    <file path="/SubjectsListAdapter.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383910234531" ignored="false" />
+    <file path="$PROJECT_DIR$/../colloquium2/res/layout/subjects_list_item.xml" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383903936596" ignored="false" />
+    <file path="/subjects_list_item.xml" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383903936596" ignored="false" />
+    <file path="$PROJECT_DIR$/../colloquium2/res/layout/subjects_list_activity.xml" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383904405841" ignored="false" />
+    <file path="/subjects_list_activity.xml" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383905556626" ignored="false" />
+    <file path="$PROJECT_DIR$/../colloquium2/src/ru/ifmo/ctddev/skripnikov/colloquium2/ItemsListActivity.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383904418744" ignored="false" />
+    <file path="$PROJECT_DIR$/../colloquium2/src/ru/ifmo/ctddev/skripnikov/colloquium2/ItemsListAdapter.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383904418744" ignored="false" />
+    <file path="$PROJECT_DIR$/../colloquium2/src/ru/ifmo/ctddev/skripnikov/colloquium2/RatingsListActivity.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383910329407" ignored="false" />
+    <file path="$PROJECT_DIR$/../colloquium2/src/ru/ifmo/ctddev/skripnikov/colloquium2/RatingsListAdapter.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383910306991" ignored="false" />
+    <file path="/RatingsListAdapter.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383910298239" ignored="false" />
+    <file path="$PROJECT_DIR$/../colloquium2/res/layout/ratings_list_item.xml" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383904605270" ignored="false" />
+    <file path="/ratings_list_item.xml" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383904597272" ignored="false" />
+    <file path="$PROJECT_DIR$/../colloquium2/res/layout/ratings_list_activity.xml" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383904759766" ignored="false" />
+    <file path="/ratings_list_activity.xml" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383905545617" ignored="false" />
+    <file path="/RatingsListActivity.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383909898871" ignored="false" />
+    <file path="$PROJECT_DIR$/../colloquium2/gen/ru/ifmo/ctddev/skripnikov/colloquium2/R.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383905275931" ignored="false" />
+    <file path="$PROJECT_DIR$/../colloquium2/res/menu/ratings_list_activity.xml" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383905545617" ignored="false" />
+    <file path="$PROJECT_DIR$/../colloquium2/res/menu/subjects_list_activity.xml" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383905556626" ignored="false" />
+    <file path="/strings.xml" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383907539021" ignored="false" />
+    <file path="$PROJECT_DIR$/../colloquium2/src/ru/ifmo/ctddev/skripnikov/colloquium2/Listener.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383905798571" ignored="false" />
+    <file path="$PROJECT_DIR$/../colloquium2/src/ru/ifmo/ctddev/skripnikov/colloquium2/ChangeChannelDialog.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383905824479" ignored="false" />
+    <file path="$PROJECT_DIR$/../colloquium2/src/ru/ifmo/ctddev/skripnikov/colloquium2/AddSubjectlDialog.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383906720070" ignored="false" />
+    <file path="$PROJECT_DIR$/../colloquium2/src/ru/ifmo/ctddev/skripnikov/colloquium2/EditSubjectlDialog.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383907958420" ignored="false" />
+    <file path="/AddSubjectlDialog.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383906712853" ignored="false" />
+    <file path="$PROJECT_DIR$/../colloquium2/res/layout/add_subject_dialog.xml" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383907809701" ignored="false" />
+    <file path="/add_subject_dialog.xml" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383907804802" ignored="false" />
+    <file path="$PROJECT_DIR$/../colloquium2/res/layout/add_rating_dialog.xml" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383908075178" ignored="false" />
+    <file path="/add_rating_dialog.xml" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383906444956" ignored="false" />
+    <file path="$PROJECT_DIR$/../colloquium2/src/ru/ifmo/ctddev/skripnikov/colloquium2/AddRatingDialog.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383910373329" ignored="false" />
+    <file path="/AddRatingDialog.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383907339268" ignored="false" />
+    <file path="$PROJECT_DIR$/../colloquium2/res/layout/edit_rating_dialog.xml" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383907473274" ignored="false" />
+    <file path="/edit_rating_dialog.xml" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383907473274" ignored="false" />
+    <file path="/EditSubjectlDialog.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383907955154" ignored="false" />
+    <file path="$PROJECT_DIR$/../colloquium2/res/layout/edit_subject_dialog.xml" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383907817978" ignored="false" />
+    <file path="/edit_subject_dialog.xml" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383907817978" ignored="false" />
+    <file path="$PROJECT_DIR$/../colloquium2/src/ru/ifmo/ctddev/skripnikov/colloquium2/EditRatingDialog.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383908311780" ignored="false" />
+    <file path="/EditRatingDialog.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383908311780" ignored="false" />
+    <file path="$PROJECT_DIR$/../colloquium2/src/ru/ifmo/ctddev/skripnikov/colloquium2/AddSubjectDialog.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383910382169" ignored="false" />
+    <file path="$PROJECT_DIR$/../colloquium2/src/ru/ifmo/ctddev/skripnikov/colloquium2/EditSubjectDialog.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1383908441652" ignored="false" />
+    <file path="$PROJECT_DIR$/../Weather/src/ru/ifmo/ctddev/skripnikov/Weather/SQLiteHelper.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1384681196735" ignored="false" />
+    <file path="$PROJECT_DIR$/../Weather/src/ru/ifmo/ctddev/skripnikov/Weather/DBStorage.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1384681530127" ignored="false" />
+    <file path="$PROJECT_DIR$/../Weather/src/ru/ifmo/ctddev/skripnikov/Weather/WeatherAPI.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1384681253876" ignored="false" />
+    <file path="/WeatherAPI.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1384681253876" ignored="false" />
+    <file path="$PROJECT_DIR$/../Weather/src/ru/ifmo/ctddev/skripnikov/Weather/MainActivity.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1384682441916" ignored="false" />
+    <file path="$PROJECT_DIR$/../Weather/src/ru/ifmo/ctddev/skripnikov/Weather/CitiesListAdapter.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1384681492548" ignored="false" />
+    <file path="$PROJECT_DIR$/../Weather/res/layout/cities_list_activity.xml" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1384681415575" ignored="false" />
+    <file path="/cities_list_activity.xml" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1384681415575" ignored="false" />
+    <file path="$PROJECT_DIR$/../Weather2/src/ru/ifmo/ctddev/skripnikov/Weather2/WeatherFetcherService.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1385664082502" ignored="false" />
+    <file path="$PROJECT_DIR$/../Weather2/src/ru/ifmo/ctddev/skripnikov/Weather2/MainActivity.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1386262688418" ignored="false" />
+    <file path="/WeatherFetcherService.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1385664022934" ignored="false" />
+    <file path="$PROJECT_DIR$/../Weather2/src/ru/ifmo/ctddev/skripnikov/Weather2/Weather.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1385663844545" ignored="false" />
+    <file path="/Weather.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1385663843140" ignored="false" />
+    <file path="$PROJECT_DIR$/../Weather2/src/ru/ifmo/ctddev/skripnikov/Weather2/DBStorage.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1385663600655" ignored="false" />
+    <file path="$PROJECT_DIR$/../Weather2/src/ru/ifmo/ctddev/skripnikov/Weather2/WorldWeatherOnlineAPI.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1385663869618" ignored="false" />
+    <file path="/WorldWeatherOnlineAPI.java" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1385663868747" ignored="false" />
+    <file path="$PROJECT_DIR$/../Weather2/AndroidManifest.xml" changelist="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" time="1386262199362" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="Commander">
+    <leftPanel />
+    <rightPanel />
+    <splitter proportion="0.5" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint url="file://$PROJECT_DIR$/../../SmartDictionary/Android/LangOmich/src/org/omich/lang/app/db/SQLiteHelper.java" line="2" class="SQLiteHelper.java" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="androidhw6" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="ChannelsListActivity.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ru/ifmo/ctddev/skripnikov/androidhw6/ChannelsListActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="47" column="81" selection-start="1757" selection-end="1757" vertical-scroll-proportion="0.6766169">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SQLiteHelper.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/ifmo/ctddev/skripnikov/androidhw6/SQLiteHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="32" selection-start="646" selection-end="646" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AddChannelActivity.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/ifmo/ctddev/skripnikov/androidhw6/AddChannelActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="53" selection-start="660" selection-end="660" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DBStorage.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/ifmo/ctddev/skripnikov/androidhw6/DBStorage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="35" column="14" selection-start="1343" selection-end="1343" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/ru/ifmo/ctddev/skripnikov/androidhw6/Channel.java" />
+        <option value="$PROJECT_DIR$/src/ru/ifmo/ctddev/skripnikov/androidhw6/SQLiteHelper.java" />
+        <option value="$PROJECT_DIR$/src/ru/ifmo/ctddev/skripnikov/androidhw6/DBStorage.java" />
+        <option value="$PROJECT_DIR$/src/ru/ifmo/ctddev/skripnikov/androidhw6/ItemsListActivity.java" />
+        <option value="$PROJECT_DIR$/src/ru/ifmo/ctddev/skripnikov/androidhw6/ChannelsListAdapter.java" />
+        <option value="$PROJECT_DIR$/res/layout/channel_item.xml" />
+        <option value="$PROJECT_DIR$/src/ru/ifmo/ctddev/skripnikov/androidhw6/Listener.java" />
+        <option value="$PROJECT_DIR$/src/ru/ifmo/ctddev/skripnikov/androidhw6/ChangeChannelDialog.java" />
+        <option value="$PROJECT_DIR$/res/layout/dialog.xml" />
+        <option value="$PROJECT_DIR$/src/ru/ifmo/ctddev/skripnikov/androidhw6/AddChannelActivity.java" />
+        <option value="$PROJECT_DIR$/res/layout/add_channel.xml" />
+        <option value="$PROJECT_DIR$/src/ru/ifmo/ctddev/skripnikov/androidhw6/AlarmReciever.java" />
+        <option value="$PROJECT_DIR$/src/ru/ifmo/ctddev/skripnikov/androidhw6/AlarmReceiver.java" />
+        <option value="$PROJECT_DIR$/src/ru/ifmo/ctddev/skripnikov/androidhw6/ChannelsListActivity.java" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/src/ru/ifmo/ctddev/skripnikov/androidhw6/FeedReaderService.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1320" />
+    <option name="height" value="784" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="androidhw6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="androidhw6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="androidhw6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="androidhw6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="androidhw6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="androidhw6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="androidhw6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="androidhw6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="project.scopes" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Weather2" />
+    <property name="AndroidLayoutSelectedEditor" value="text-editor" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ru.ifmo.ctddev.skripnikov.androidhw6" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android Application.androidhw6">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="androidhw6" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="androidhw6" />
+      <option name="ACTIVITY_CLASS" value="ru.ifmo.ctddev.skripnikov.androidhw6.ChannelsListActivity" />
+      <option name="MODE" value="specific_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="USB_DEVICE" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Android Application.androidhw6" />
+    </list>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="509eb34f-f0c1-4fdf-8728-92b1aa1b2601" name="Default" comment="" />
+      <created>1382622256838</created>
+      <updated>1382622256838</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298887" sideWeight="0.67145133" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37799042" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32750398" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.0143084265" sideWeight="0.67145133" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.399841" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21621622" sideWeight="0.67145133" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32057416" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298887" sideWeight="0.67145133" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298887" sideWeight="0.67145133" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298887" sideWeight="0.67145133" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32854864" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32854864" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/ru/ifmo/ctddev/skripnikov/androidhw6/ChannelsListAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="38" selection-start="605" selection-end="605" vertical-scroll-proportion="0.55949366" />
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/Android/android-sdk/platforms/android-15/data/res/layout/dialog_custom_title.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="22" selection-start="305" selection-end="305" vertical-scroll-proportion="-4.76" />
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ifmo/ctddev/skripnikov/androidhw6/Channel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="67" selection-start="323" selection-end="323" vertical-scroll-proportion="0.5974684">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ifmo/ctddev/skripnikov/androidhw6/Listener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="25" selection-start="64" selection-end="72" vertical-scroll-proportion="0.085" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ifmo/ctddev/skripnikov/androidhw6/ChangeChannelDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="96" selection-start="1022" selection-end="1022" vertical-scroll-proportion="0.745">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/add_channel.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="26" selection-start="301" selection-end="301" vertical-scroll-proportion="0.09714286" />
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/channel_item.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="971" vertical-scroll-proportion="0.0" />
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="463" vertical-scroll-proportion="0.0" />
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/dialog.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="47" selection-start="489" selection-end="489" vertical-scroll-proportion="0.0" />
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ifmo/ctddev/skripnikov/androidhw6/ItemsListActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="73" selection-start="879" selection-end="879" vertical-scroll-proportion="0.028192371">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ifmo/ctddev/skripnikov/androidhw6/FeedReaderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="90" selection-start="956" selection-end="956" vertical-scroll-proportion="0.02881356">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="0" selection-start="1518" selection-end="1588" vertical-scroll-proportion="0.7180763">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ifmo/ctddev/skripnikov/androidhw6/DBStorage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="14" selection-start="1343" selection-end="1343" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ifmo/ctddev/skripnikov/androidhw6/SQLiteHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="32" selection-start="646" selection-end="646" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ifmo/ctddev/skripnikov/androidhw6/AddChannelActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="53" selection-start="660" selection-end="660" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ifmo/ctddev/skripnikov/androidhw6/ChannelsListActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="81" selection-start="1757" selection-end="1757" vertical-scroll-proportion="0.6766169">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

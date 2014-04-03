@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/androidhw4.iml" filepath="$PROJECT_DIR$/androidhw4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testforhw4/testforhw4.iml" filepath="$PROJECT_DIR$/testforhw4/testforhw4.iml" />
+    </modules>
+  </component>
+</project>
+

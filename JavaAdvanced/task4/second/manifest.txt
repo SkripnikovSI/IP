@@ -1,0 +1,2 @@
+Main-Class: ru.ifmo.ctddev.skripnikov.task3.Implementor
+Class-Path: Test.jar Tests.jar

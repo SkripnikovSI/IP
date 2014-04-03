@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Orders</string>
+    <string name="name">Name:</string>
+    <string name="box_number">Box number:</string>
+    <string name="add_order">Add order</string>
+    <string name="model">Model</string>
+    <string name="color">Color</string>
+    <string name="number">Number</string>
+    <string name="phone">Phone</string>
+    <string name="time">Time</string>
+    <string name="cancel">Cancel</string>
+    <string name="add">Add</string>
+    <string name="ok">Ok</string>
+    <string name="set_name">Name</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="box">Box</string>
+    <string name="edit_order">Edit order</string>
+</resources>
